@@ -1,2 +1,0 @@
-background-color: #567b95;
-border: 1px solid #326891;
