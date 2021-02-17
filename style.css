@@ -115,12 +115,12 @@ p {
 }
 
 .right-link-item {
-	background-color: blue;
-	border-bottom: 1px solid white;
+	background-color: gold;
+	border-bottom: 1px solid black;
 }
 
 .article-item {
-	width: 10rem;
+	max-width: 15rem;
 	flex-grow: 1;
 }
 
