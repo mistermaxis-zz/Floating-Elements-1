@@ -120,7 +120,7 @@ p {
 }
 
 .article-item {
-	max-width: 15rem;
+	max-width: 20rem;
 	flex-grow: 1;
 }
 
@@ -142,4 +142,12 @@ p {
 
 .top-border-style {
 	border-top: 3px solid yellow;
+}
+
+aside {
+	float: right;
+	right: 10%;
+	width: 50px;
+	height: 200px;
+	background-color: lightblue;
 }
