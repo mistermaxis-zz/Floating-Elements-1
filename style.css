@@ -49,7 +49,6 @@
 }
 
 .full-content {
-	height: 360px;
 	width: 85%;
 	background-color: coral;
 }
@@ -113,6 +112,7 @@ p {
 }
 
 .article-item {
+	max-width: 30%;
 	flex-grow: 1;
 }
 
@@ -121,7 +121,7 @@ p {
 }
 
 .fake-icon-style {
-	height: 35px;
+	height: 20px;
 }
 
 .fake-social-media-style {
