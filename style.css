@@ -112,7 +112,7 @@ p {
 }
 
 .article-item {
-	max-width: 30%;
+	width: 10rem;
 	flex-grow: 1;
 }
 
