@@ -50,6 +50,7 @@
 
 .full-content {
 	width: 85%;
+	padding: 1%;
 	background-color: coral;
 }
 
@@ -103,12 +104,19 @@ p {
 
 .left-link-container {
 	background-color: cyan;
+	margin: 1rem;
 	flex-grow: 2;
 }
 
 .right-link-container {
 	background-color: greenyellow;
+	margin: 1rem;
 	flex-grow: 1;
+}
+
+.right-link-item {
+	background-color: blue;
+	border-bottom: 1px solid white;
 }
 
 .article-item {
@@ -130,4 +138,8 @@ p {
 
 .wrap-container {
 	flex-wrap: wrap;
+}
+
+.top-border-style {
+	border-top: 3px solid yellow;
 }
