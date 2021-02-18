@@ -14,7 +14,7 @@ We were to use float, flexbox and other positioning and styling techniques to ma
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://mistermaxis.github.io/Floating-Elements-1/)
 
 
 ## Getting Started
@@ -27,37 +27,38 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+Computer with internet conexion
+
 ### Setup
+
+Clone or zip the Github project
 
 ### Install
 
-### Usage
+Double click index.html
 
 ### Run tests
 
+Terminal commands: [npm i] to install dependencies | [npx hint .] to run Webhint | [npx stylelint "**/*.{css,scss}"] to run Styleint
+
 ### Deployment
+
+Upload index.html, style.css and the assets folder to a hosting server
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@mistermaxis](https://github.com/mistermaxis)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the https://github.com/mistermaxis/Floating-Elements-1/issues.
 
 ## Show your support
 
