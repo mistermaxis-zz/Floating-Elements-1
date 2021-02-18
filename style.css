@@ -10,14 +10,14 @@
 .sticky {
   position: -webkit-sticky;
   position: sticky;
-	z-index: 9;
-	top: 0;
+  z-index: 9;
+  top: 0;
 }
 
 .text-title {
   flex-grow: 2;
   text-align: center;
-	padding: 1rem;
+  padding: 1rem;
 }
 
 .button-simple {
@@ -104,7 +104,7 @@ p {
 }
 
 .caption-big-text {
-  font-size: 0.9rem;  
+  font-size: 0.9rem;
 }
 
 .double-size-container {
@@ -117,16 +117,16 @@ p {
 
 .right-link-item {
   border-bottom: 1px solid #ddd;
-	padding: 1rem;
+  padding: 1rem;
 }
 
 .right-link-item:last-of-type {
-	border-bottom: 0px;
+  border-bottom: 0;
 }
 
 .article-item {
   max-width: 13rem;
-	margin: 1rem 0.5rem;
+  margin: 1rem 0.5rem;
   flex-grow: 1;
 }
 
@@ -135,7 +135,7 @@ p {
 }
 
 .single-image-small-style {
-	width: 30%;
+  width: 30%;
 }
 
 .fake-icon-style {
@@ -161,13 +161,8 @@ p {
   right: 10%;
 }
 
-.image-float-left {
-	clear: both;
-  float: left;
-}
-
 .padded {
-	padding: 1rem;
+  padding: 1rem;
 }
 
 .mid-size-image-container {
@@ -186,4 +181,55 @@ p {
 
 .full-width {
   width: 100%;
+}
+
+.absolute-style {
+  position: absolute;
+}
+
+.relative-style {
+  position: relative;
+}
+
+.inflation-text {
+  width: 20%;
+}
+
+.inflation-text-1 {
+  top: 12rem;
+  left: 2rem;
+}
+
+.inflation-text-2 {
+  top: 12rem;
+  left: 19rem; 
+}
+
+.inflation-text-3 {
+  top: 12rem;
+  left: 36rem;
+}
+
+.inflation-text-4 {
+  top: 12rem;
+  left: 54rem;
+}
+
+.inflation-text-5 {
+  top: 32rem;
+  left: 2rem;
+}
+
+.inflation-text-6 {
+  top: 32rem;
+  left: 19rem;
+}
+.inflation-text-7 {
+  top: 32rem;
+  left: 36rem;
+}
+
+.inflation-text-8 {
+  top: 32rem;
+  left: 54rem;
 }
