@@ -16,8 +16,6 @@
 
 .text-title {
   flex-grow: 2;
-  text-align: center;
-  padding: 1rem;
 }
 
 .button-simple {
@@ -38,8 +36,12 @@
   align-items: center;
 }
 
-.justified-container {
+.spcbtwn-container {
   justify-content: space-between;
+}
+
+.justified-container {
+  justify-content: center;
 }
 
 .columned-container {
