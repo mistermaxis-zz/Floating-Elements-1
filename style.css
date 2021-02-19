@@ -159,8 +159,6 @@ p {
 .aside-style {
   position: relative;
   width: 15%;
-  float: right;
-  right: 10%;
 }
 
 .padded {
@@ -236,3 +234,17 @@ p {
   top: 32rem;
   left: 54rem;
 }
+
+hr {
+  width: 100%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns:
+  'left main right';
+}
+
+.grid-left { grid-column: left; }
+.grid-main { grid-column: center; }
+.grid-right { grid-column: right; }
