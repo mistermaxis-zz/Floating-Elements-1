@@ -1,0 +1,19 @@
+.grid-container {
+  display: grid;
+  grid-template-areas: 'left center center right';
+}
+
+.grid-left {
+  grid-area: left;
+  background-color: red;
+}
+
+.grid-center {
+  grid-area: center;
+  background-color: green;
+}
+
+.grid-right {
+  grid-area: right;
+  background-color: blue;
+}
