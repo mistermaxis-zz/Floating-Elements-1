@@ -67,6 +67,10 @@
   align-self: flex-end;
 }
 
+.narrowest-content {
+  width: 40%;
+}
+
 .narrow-content {
   width: 50%;
 }
