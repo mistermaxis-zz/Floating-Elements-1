@@ -8,6 +8,7 @@
 
 ![screenshot](./app-screenshot.png)
 ![screenshot](./inflation-screenshot.png)
+![screenshot](./assets/images/footer.png)
 
 We were to use float, flexbox and other positioning and styling techniques to make our web page resemble the target web page as closely as possible. 
 
