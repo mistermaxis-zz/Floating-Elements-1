@@ -128,10 +128,15 @@ p {
   margin: 0 0.3rem;
 }
 
-.small-icon-rounded {
+.small-icon-rounded-container {
   background-color: #eee;
   border-radius: 100%;
   padding: 0.4rem;
+}
+
+.small-icon-svg {
+  width: 1.6rem;
+  height: 1.6rem;
 }
 
 .small-icon-rounded-svg {
