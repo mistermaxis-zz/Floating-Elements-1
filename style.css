@@ -144,6 +144,11 @@ p {
   height: 1rem;
 }
 
+.bubble-message-icon {
+  width: 1.8rem;
+  height: 1.8rem;
+}
+
 .caption-text-style {
   width: 85%;
 }
