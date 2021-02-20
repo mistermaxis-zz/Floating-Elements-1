@@ -23,11 +23,20 @@
 .button-simple {
   background-color: #567b95;
   border: 1px solid #326891;
+  cursor: pointer;
   border-radius: 3pt;
-  margin: 3px;
   padding: 5pt;
   font-weight: bold;
-  color: #ddd;
+  color: #eee;
+}
+
+.login-anchor-style {
+  margin: 3px;
+}
+
+body a {
+  color: #333;
+  text-decoration: none;
 }
 
 .flex-container {
@@ -95,7 +104,19 @@ p {
 
 .small-icon {
   width: 1rem;
+  height: 1rem;
   margin: 0 0.3rem;
+}
+
+.small-icon-rounded {
+  background-color: #eee;
+  border-radius: 100%;
+  padding: 0.4rem;
+}
+
+.small-icon-rounded-svg {
+  width: 1rem;
+  height: 1rem;
 }
 
 .caption-text-style {
@@ -184,12 +205,21 @@ p {
   padding: 1rem;
 }
 
+.padded-horizontal {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 .mid-size-image-container {
   width: 55%;
 }
 
 .left-border-style {
-  border-left: 3px solid #333;
+  border-left: 3px solid #e2e2e2;
+}
+
+.footer-section-container {
+  padding: 0 15px;
 }
 
 .full-width {
@@ -202,6 +232,14 @@ p {
 
 .relative-style {
   position: relative;
+}
+
+.floated-left-style {
+  float: left;
+}
+
+.cleared-left-style {
+  clear: left;
 }
 
 .inflation-text {
@@ -258,6 +296,9 @@ p {
 
 hr {
   width: 100%;
+  height: 3px;
+  border-style: none;
+  background-color: #e2e2e2;
 }
 
 .footer-links {
@@ -265,7 +306,7 @@ hr {
 }
 
 .side-column {
-  width: 8rem;
+  width: 12rem;
 }
 
 .grid-container {
@@ -273,8 +314,14 @@ hr {
   grid-template-areas: 'left center center right';
 }
 
-.grid-left { grid-area: left; }
+.grid-left {
+  grid-area: left;
+}
 
-.grid-center { grid-area: center; }
+.grid-center {
+  grid-area: center;
+}
 
-.grid-right { grid-area: right; }
+.grid-right {
+  grid-area: right;
+}
