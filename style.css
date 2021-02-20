@@ -35,6 +35,10 @@
   color: #eee;
 }
 
+.comment-button {
+  height: 2.3rem;
+}
+
 .login-anchor-style {
   margin: 3px;
 }
