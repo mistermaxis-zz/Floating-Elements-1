@@ -25,6 +25,11 @@
   height: 25px;
 }
 
+.margin-horizontal {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
 .button-simple {
   background-color: #567b95;
   border: 1px solid #326891;
