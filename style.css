@@ -209,10 +209,6 @@ p {
   flex-wrap: wrap;
 }
 
-.top-border-style {
-  border-top: 3px solid #333;
-}
-
 .aside-style {
   width: 100%;
 }
@@ -226,12 +222,21 @@ p {
   padding-right: 1rem;
 }
 
+.padded-vertical {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
 .mid-size-image-container {
   width: 55%;
 }
 
 .left-border-style {
   border-left: 3px solid #e2e2e2;
+}
+
+.top-border-style {
+  border-top: 3px solid #333;
 }
 
 .footer-section-container {
@@ -259,48 +264,49 @@ p {
 }
 
 .inflation-text {
-  width: 13rem;
+  width: 24%;
+  height: 24%;
   font-size: 0.9rem;
 }
 
 .inflation-text-1 {
-  top: 11rem;
-  left: 2rem;
+  top: 25%;
+  left: 0;
 }
 
 .inflation-text-2 {
-  top: 11rem;
-  left: 18rem;
+  top: 25%;
+  left: 25%;
 }
 
 .inflation-text-3 {
-  top: 11rem;
-  left: 33rem;
+  top: 25%;
+  left: 50%;
 }
 
 .inflation-text-4 {
-  top: 11rem;
-  left: 49rem;
+  top: 25%;
+  left: 75%;
 }
 
 .inflation-text-5 {
-  top: 29rem;
-  left: 2rem;
+  top: 75%;
+  left: 0;
 }
 
 .inflation-text-6 {
-  top: 29rem;
-  left: 18rem;
+  top: 75%;
+  left: 25%;
 }
 
 .inflation-text-7 {
-  top: 29rem;
-  left: 33rem;
+  top: 75%;
+  left: 50%;
 }
 
 .inflation-text-8 {
-  top: 29rem;
-  left: 49rem;
+  top: 75%;
+  left: 75%;
 }
 
 .inflation-hr {

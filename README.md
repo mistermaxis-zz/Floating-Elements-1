@@ -4,6 +4,8 @@
 
 > In this project we were asked to recreate a page from the New York Times website.
 
+#Please keep in mind the resolution of my screen is 1920x1080. Kindly setup the window accordingly.
+
 ![screenshot](./app-screenshot.png)
 ![screenshot](./inflation-screenshot.png)
 
